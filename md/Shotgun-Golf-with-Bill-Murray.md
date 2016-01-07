@@ -19,9 +19,8 @@ Rights: CC BY-NC 4.0
 
 # Shotgun Golf with Bill Murray
 
-**By Hunter S. Thompson**\
-\
-\
+### By Hunter S. Thompson**
+
 The death of professional hockey in AMERICA is a nasty omen for people
 with heavy investments in NHL teams. But to me, it meant little or
 nothing -- and that's why I called Bill Murray with an idea that would
